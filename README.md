@@ -1,6 +1,6 @@
 ---
 
-## **Spam Email Detection using Naive Bayes and TF-IDF with SMOTE for Class Balancing**
+## **Spam Email Detection**
 
 ### **Project Overview**
 The purpose of this project is to build a machine learning model that classifies emails as either "Spam" or "Ham" (non-spam). The project utilizes a large dataset of emails and leverages Natural Language Processing (NLP) techniques combined with a Naive Bayes classifier to create an accurate and efficient spam detection system. To ensure fair representation of both classes, SMOTE (Synthetic Minority Over-sampling Technique) is applied to balance the dataset, allowing the model to better distinguish between spam and ham emails.
