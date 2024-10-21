@@ -59,6 +59,7 @@ Follow these steps to install the necessary dependencies and run the project loc
 6. **Gradio Interface**:
    - The entire interaction happens through a user-friendly web interface powered by **Gradio**, where users can upload an image, record voice input, and receive both text and audio responses.
   
+#### **Inspired From:** https://www.youtube.com/watch?v=77dJJBFPLpY
 
 ---
 
